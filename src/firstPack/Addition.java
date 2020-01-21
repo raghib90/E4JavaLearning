@@ -5,10 +5,12 @@ public class Addition {
 	
 	public static void main(String[] args) {
 		
-		int fno, sno, res;
+		int fno, sno, res, fn;
 		
 		fno=3;
 		sno = 5;
+		fn=6;
+		
 		res = fno + sno;
 		int mul = fno*sno;
 		
